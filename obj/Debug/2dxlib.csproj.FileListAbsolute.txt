@@ -1,0 +1,6 @@
+D:\Visual Studio 2017\Projects\2dxlib\2dxlib\bin\Debug\2dxlib.dll
+D:\Visual Studio 2017\Projects\2dxlib\2dxlib\bin\Debug\2dxlib.pdb
+D:\Visual Studio 2017\Projects\2dxlib\2dxlib\obj\Debug\2dxlib.csprojAssemblyReference.cache
+D:\Visual Studio 2017\Projects\2dxlib\2dxlib\obj\Debug\2dxlib.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Projects\2dxlib\2dxlib\obj\Debug\2dxlib.dll
+D:\Visual Studio 2017\Projects\2dxlib\2dxlib\obj\Debug\2dxlib.pdb
